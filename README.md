@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://mpng.subpng.com/20180420/uiq/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images.all-free-download.com/images/graphicwebp/computing_work_background_colorful_digital_elements_sketch_6853110.webp" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Imteshal</h1>
 <h3 align="center">An adventurer, explorer and doer.</h3>
