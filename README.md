@@ -13,7 +13,7 @@
 - 🌱 I’m currently pursuing a degree in B.Sc. Information Technology and Management at [Ravenshaw University, Cuttack](https://ravenshawuniversity.ac.in/)  
   
 
-- Reach out to me [here](https://linktr.ee/imteshalkarim)  
+- Reach out to me [here](https://linktr.ee/imteshalkarim)  or [mail](imteshal.mik@gmail.com)
   
 
 - ❓ Ask me about anything related to tech, space and philosophy, all over a cup of coffee☕  
@@ -47,7 +47,7 @@
 </p>
 
 <br/>
-##<p align="center">
+<p align="center">
     <a href="https://github.com/imteshalkarim/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imteshal Karim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imteshalkarim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
