@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Imteshal Karim</h1>
-<h3 align="center">A learner, explorer, thinker and doer and I welcome you to my GitHub profile.</h3>
+<h3 align="center">A learner, explorer, thinker and doer, I welcome you to my GitHub profile.</h3>
 
 - I’m currently working on [a project repository named 'atom'.](https://github.com/imteshalkarim/atom.git)
 
