@@ -13,7 +13,7 @@
 - 🌱 I’m currently pursuing a degree in B.Sc. Information Technology and Management at [Ravenshaw University, Cuttack](https://ravenshawuniversity.ac.in/)  
   
 
-- Reach out to me [here](https://linktr.ee/imteshalkarim)  or [mail](imteshal.mik@gmail.com)
+- Reach out to me [here](https://linktr.ee/imteshalkarim)  or mail at imteshal.mik@gmail.com
   
 
 - ❓ Ask me about anything related to tech, space and philosophy, all over a cup of coffee☕  
