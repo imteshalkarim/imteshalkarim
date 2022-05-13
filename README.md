@@ -1,12 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://mpng.subpng.com/20180420/uiq/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Imteshal</h1>
 <h3 align="center">An adventurer, explorer and doer.</h3>
 
 
 ## 🙋‍♂️ About Me
-
--### <div align="center">I'm Imteshal, .</div>  
   
 
 - 🔭 I’m currently working on ['Atom'](https://github.com/imteshalkarim/atom) -  An educational initiative that aims to provide programming basics at beginner and intermediate levels on the principles of FOSS  
