@@ -1,9 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### <div align="center">I'm Imteshal, an adventurer, explorer and doer.</div>  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Imteshal</h1>
+<h3 align="center">An adventurer, explorer and doer.</h3>
+
+
+## 🙋‍♂️ About Me
+
+-### <div align="center">I'm Imteshal, .</div>  
   
 
 - 🔭 I’m currently working on ['Atom'](https://github.com/imteshalkarim/atom) -  An educational initiative that aims to provide programming basics at beginner and intermediate levels on the principles of FOSS  
@@ -22,22 +25,10 @@
   
 
 - ❤️ PS  
-  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteshalkarim&hide_border=true&layout=compact" align="left" />  
+## 🚀 Languages and Tools:
 
-<img src="https://github-readme-stats.vercel.app/api?username=imteshalkarim&show_icons=true&count_private=true&hide_border=true" align="right" />  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
-
-### Skills  
-<div align="center">  
+<p align="left"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
@@ -55,14 +46,35 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" />  
-</div>
-</td></tr></table>  
-
-<br/>  
+</p>
 
 
-## Connect with me  
-<div align="center">
+<p align="center">
+    <a href="https://github.com/imteshalkarim/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imteshal Karim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imteshalkarim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/imteshalkarim/github-readme-stats"><img alt="Imteshal Karim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imteshalkarim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/imteshalkarim/github-readme-stats"><img alt="ImteshalKarim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imteshalkarim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/imteshalkarim/github-readme-activity-graph"><img alt="Imteshal Karim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imteshalkarim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
 <a href="https://github.com/imteshalkarim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -81,26 +93,15 @@
 <a href="https://medium.com/@imteshalkarim" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
 
-<br/>  
+</p>
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=imteshalkarim">
+</a>
+<a href="https://github.com/imteshalkarim?tab=followers"><img src="https://img.shields.io/github/followers/imteshalkarim?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/imteshalkarim" target="_blank" style="display: inline-block;">
