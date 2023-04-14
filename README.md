@@ -39,7 +39,7 @@ Support me in my endeavour of sustaining and maintaining Project 8341 and make c
 
 or alternatively,
 
-- UPI (for Indian sponsors) - imteshal.mik-1@okhdfc / imteshal.mik-1@okaxis
+- UPI (for Indian sponsors) - imteshal.mik-1@okhdfcbank / imteshal.mik-1@okaxis / imteshal.mik@axl / imteshal.mik@ybl
 - [Paypal](https://paypal.me/imteshalkarim?country.x=IN&locale.x=en_GB)
 - Buy me a coffee - 
             <div align="left">
