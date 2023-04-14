@@ -23,7 +23,10 @@
 - 🛄 Living life independently on my own terms and cruising adventure laced journey
 
 
-- 📽 Star Wars, MCU, John WIck and everything in between
+- 📽 Star Wars, MCU, DC, John Wick and everything in between
+
+
+- 🎵 Linkin Park, Coldplay, and you get the taste 
   
 
 - ❤️ PS  
