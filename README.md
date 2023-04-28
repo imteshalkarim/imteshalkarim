@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
   
 
-- 🔭 I’m currently working on [Project 8341](https://github.com/sponsors/imteshalkarim) -  An educational initiative that aims to provide programming basics at beginner and intermediate levels along with the aim of making computer education available for all on the principles of FOSS; in which [Java Explorer](https://github.com/imteshalkarim/JavaExplorer) is a first step.
+- 🔭 I’m currently working on [Project Amorphous](https://github.com/sponsors/imteshalkarim) -  An educational initiative that aims to provide programming basics at beginner and intermediate levels along with the aim of making computer education available for all on the principles of FOSS; in which [Java Explorer](https://github.com/imteshalkarim/JavaExplorer) is a first step.
   
 
 - 🌱 Information Technology and Management (ITM) Graduate of [Ravenshaw University, Cuttack](https://ravenshawuniversity.ac.in/)  
@@ -35,7 +35,7 @@
 
 ## 🫶 Support my projects
 
-Support me in my endeavour of sustaining and maintaining Project 8341 and make computer education accessible and open to all without any paywalls or reservations and become a [sponsor](https://github.com/sponsors/imteshalkarim) to the project.
+Support me in my endeavour of sustaining and maintaining Project Amorphous and make computer education accessible and open to all without any paywalls or reservations and become a [sponsor](https://github.com/sponsors/imteshalkarim) to the project.
 
 or alternatively,
 
