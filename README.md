@@ -18,18 +18,9 @@
   
 
 - ❓ Ask me about anything related to tech, space and philosophy, all over a cup of coffee☕  
-  
-
-- 🛄 Living life independently on my own terms and cruising adventure laced journey
 
 
-- 📽 Star Wars, MCU, DC, John Wick and everything in between
-
-
-- 🎵 Linkin Park, Coldplay, and you get the taste 
-  
-
-- ❤️ PS  
+- ⛳ Head over to my Instagram @atomicsage to know more and connect with me
 </p>
 <br/>
 
@@ -50,7 +41,7 @@ or alternatively,
             </a></div>
 <br />
 
-## 🤝 Connect with me:
+## 🤝 Socials:
 
 <p align="left">
 
